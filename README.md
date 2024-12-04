@@ -1,7 +1,7 @@
 <h1>Proyecto de Automatización Web</h1>
 
 <h2>Descripción</h2>
-<p>Este proyecto contiene un script de automatización web diseñado para interactuar con el sitio web <a href="http://www.demoblaze.com">DemoBlaze</a>. Las tareas automatizadas incluyen:</p>
+<p>Este proyecto de automatización web diseñado para interactuar con el sitio web <a href="http://www.demoblaze.com">DemoBlaze</a>. Las tareas automatizadas incluyen:</p>
 <ul>
   <li>Realizar el proceso de inicio de sesión.</li>
   <li>Seleccionar un producto de la tienda.</li>
