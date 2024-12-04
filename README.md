@@ -1,4 +1,4 @@
-<h1>Proyecto de Automatización Web: DemoBlaze</h1>
+<h1>Proyecto de Automatización Web</h1>
 
 <h2>Descripción</h2>
 <p>Este proyecto contiene un script de automatización web diseñado para interactuar con el sitio web <a href="http://www.demoblaze.com">DemoBlaze</a>. Las tareas automatizadas incluyen:</p>
